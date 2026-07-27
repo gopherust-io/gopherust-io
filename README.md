@@ -82,8 +82,8 @@ Practical software: clear APIs, strong docs, and production-ready defaults.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gopherust-io&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;title_color=2dd4bf&amp;icon_color=2dd4bf&amp;text_color=e2e8f0&amp;bg_color=0d1117"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=gopherust-io&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;title_color=0d9488&amp;icon_color=0d9488&amp;text_color=334155&amp;bg_color=f6f9fa" alt="GitHub stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api?username=gopherust-io&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;title_color=2dd4bf&amp;icon_color=2dd4bf&amp;text_color=e2e8f0&amp;bg_color=0d1117"/>
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=gopherust-io&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;title_color=0d9488&amp;icon_color=0d9488&amp;text_color=334155&amp;bg_color=f6f9fa" alt="GitHub stats"/>
   </picture>
   <br/><br/>
   <strong>Connect</strong> · <a href="https://github.com/gopherust-io">github.com/gopherust-io</a>
